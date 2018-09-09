@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nty Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -244,10 +244,10 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://discord.gg/eza3cZS\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://discord.gg/eza3cZS\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://discord.gg/eza3cZS\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://discord.gg/eza3cZS\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
           "_tags": [
             "Theme"
           ],
